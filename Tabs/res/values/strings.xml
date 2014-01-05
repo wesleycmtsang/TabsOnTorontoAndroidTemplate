@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabs on Toronto</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint">Search for a keyword or phrase...</string>
+    <string name="tab_about_us">About Us</string>
+    <string name="tab_privacy_policy">Privacy Policy</string>
+    <string name="search_results">Search Results</string>
+    <string name="admin_contact">wesleycmtsang@gmail.com</string>
+    <string name="askForEmail">Please provide a signup email: </string>
+    <string name="about_us_text">        Tabs on Toronto\n\nTABS, or the Transparent Accessible Bulletin System, is a tool for monitoring issues and actions in the City of Toronto.\n
+		\nTABS makes searching through government records easy. Search for keywords, add filters, discover related information, and sign up to receive email alerts. If you\'re an engaged resident, policy expert, journalist or busy bureaucrat, this is the tool for you. In its current incarnation, TABS will send you an email alert whenever a new agenda item is introduced that is related to your registered search query.\n
+		\nOur goals:\n
+		- Facilitate access to information regarding agendas and meetings at Toronto City Hall\n
+		- Enhance public awareness of, and participation in Municipal meetings\n
+		- Increase accountability at Toronto\'s city hall\n
+		- Save people and organizations time and effort they could be spending on other things\n
+		\nThis tool was conceptualized by the Toronto Public Space Initiative (TPSI) and developed by a group of volunteers, including TPSI staff, at Random Hacks of Kindness (RHOK) Hackathon hosted at Mozilla Foundation\'s Toronto headquarters Dec 12 2012.\n
+		\n
+		
+		\nToronto Public Space Initiative\n\nThe Toronto Public Space Initiative (TPSI) is a registered non-profit organization dedicated to enhancing public space through research, policy analysis, and service provision.\n
+		We at TPSI believe that public spaces provide cities and citizens unique opportunities for democratic engagement and innovation in the areas of public health and well-being; social, cultural, and economic development; environmental stewardship; and social justice.  We advocate for principled urban public space policies steeped in respect for communal activity and civic culture.\n      </string>
+    <string name="privacy_policy_text">tabsontoronto.ca is committed to protecting the privacy of our users. This policy illustrates how we use the information we collect from you, who will have access to that information, and what safeguards we have put in place to maintain your privacy. Any personal information provided to us through our website is collected, used and disclosed in accordance with the federal Personal Information Protection and Electronic Documents Act and other applicable legislation. These provisions recognize the right of individuals to control the use of their personal information. In addition, they obligate organizations collecting personal information to appropriately handle and protect it, to the best of their ability.
+\n\n 1. Collection of Information
+\n 
+\n When someone visits tabsontoronto.ca, our web server automatically collects a limited amount of standard information essential to the operation, security and evaluation of the tabsontoronto.ca website. This information helps us to make our site more useful to visitors and includes the: * Internet domain and Internet Protocol (IP) address from computers that access our web site, * type of browser and operating system used to access our site, * date and time our site is accessed, * pages visited, and * content downloaded from our site. While some of this information does not identify who people are, other information (e.g. Internet domain names or the IP addresses of internet service providers) may provide identification. The extent of personal identification depends on the naming standards followed by the internet service provider. You may wish to check with your provider to inquire about their policies and practices in this regard. tabsontoronto.ca does not use this information to identify individuals who visit our website unless required to do so as part of an internal investigation or other law enforcement purpose.
+\n\n 2. User Registration
+\n 
+\n Registration with tabsontoronto.ca is mandatory in order to receive Email Notifications (called Alerts). Registration is not necessary to view any content on the site. We collect and subsequently process the information that you voluntarily provide at the time of registration, of which a valid email address is the only mandatory element. All information we collect will be by fair and lawful means. Every effort is made to maintain the accuracy of your personal information, and at any time you have the right to access or notify tabsontoronto.ca and update your personal information. At any time, if you request, we will remove your personal information from our files.
+\n\n 3. E-mail Policy
+\n 
+\n A verification e-mail will be sent to you before your account is finalized to ensure that you are in fact the owner of the e-mail address provided. Your e-mail address will only be used for the following purposes: * to verify you are a real unique person, not someone posting a fake account; * to contact you if our site administrators have any questions about content you post or about other content relating to your or your interests on the site, which may include verifying the status of your listing(s) or notifying you of changes to the site that may affect your content. Your e-mail address will remain private. We will not share your e-mail address with any third parties outside of our network. Further, we will not use your e-mail address to send you unsolicited information or newsletters about tabsontoronto.ca. However, you can choose to be notified of changes to the site, or to be part of consultations which tabsontoronto.ca may conduct from time to time.
+\n\n 3. Data Security
+\n 
+\n tabsontoronto.ca is obligated to protect personal information by making reasonable security arrangements against such risks as unauthorized access, collection, use, disclosure or disposal. We will ensure that security safeguards are in place to protect your personal information in a manner appropriate to its sensitivity. We will not share, sell or otherwise distribute your personal information to any third party.
+\n\n 4. Data Retention
+\n 
+\n The length of information retention varies in relation to the nature of the service provided. We keep information for the length of time necessary to fulfill the purpose(s) for which it was collected. After that point, data is kept only for statistical purposes and shall not be used for any other reason.
+\n\n 5. Archives
+\n 
+\n tabsontoronto.ca maintains an historical archive of past searches, which is maintained on the server to enable users to access information on the history of municipal data access. At any time, if you feel that the archival content contains personal information about you which you wish to have removed, please contact us at info@tabsontoronto.ca, so that the content in question can be reviewed and removed.
+\n\n 6. Links to Other Web Sites
+\n 
+\n tabsontoronto.ca includes links to other sites. Some of these sites offer unique services and may include detailed privacy statements describing how personal information may be used. tabsontoronto.ca is not responsible for the content and privacy practices of external web sites. We encourage users to review the privacy policy for each external site before submitting any personal information.
+\n\n 7. Cookies
+\n 
+\n Cookies are small pieces of data that web pages place in computers to assist in returning to that page. info@tabsontoronto.ca uses cookies to keep users logged into their current session and to keep track of user genre preferences, so that we may continually work towards providing useful and relevant content. It is possible to change the settings on a web browser to deny cookies or to warn when cookies will be deposited.
+\n\n 8. Changes to Our Privacy Policy
+\n 
+\n tabsontoronto.ca may, from time to time, review and revise its privacy practices and our website privacy policy.
+\n\n 9. Question or Concerns
+\n 
+\n tabsontoronto.ca is committed to making you feel comfortable about how we collect and use your personal information. If you have questions or concerns about this Privacy Policy, please contact info@tabsontoronto.ca
+\n\n 10. Further Information
+\n 
+\n For more information relating to the Personal Information Protection and Electronic Documents Act, please refer to the Office of the Privacy Commissioner of Canada website at: http://www.priv.gc.ca/legislation/02_06_01_e.cfm
+\n </string>
+    <string name="status_filter_prompt">+Select a Status+</string>
+    <string name="committee_filter_prompt">+Select a Committee+</string>
+    
+    <string name="status_no_status">No Status Filter</string>
+    <string name="status_adopted">Adopted</string>
+    <string name="status_admended">Amended</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="status_deferred">Deferred</string>
+    <string name="status_intro_failed">Intro Failed</string>
+    <string name="status_no_action">No Action</string>
+    <string name="status_noted_filed">Noted/Filed</string>
+    <string name="status_received">Received</string>
+    <string name="status_referred">Referred</string>
+    <string name="status_rescinded">Rescinded</string>
+    <string name="status_withdrawn">Withdrawn</string>
+    <string name="status_without_recs">Without Recs</string>
+    
+    <string-array name="status_filter_list">
+        <item>@string/status_no_status</item>
+        <item>@string/status_adopted</item>  
+        <item>@string/status_admended</item>  
+        <item>@string/status_confirmed</item>  
+        <item>@string/status_deferred</item>
+        <item>@string/status_intro_failed</item>
+        <item>@string/status_no_action</item>
+        <item>@string/status_noted_filed</item>
+        <item>@string/status_received</item>
+        <item>@string/status_referred</item>
+        <item>@string/status_rescinded</item>
+        <item>@string/status_withdrawn</item>
+        <item>@string/status_without_recs</item>
+    </string-array>
+
+    <string name="status_no_status_val"></string>
+	<string name="status_adopted_val">ADOPTED</string>
+    <string name="status_admended_val">AMENDED</string>
+    <string name="status_confirmed_val">CONFRMED</string>
+    <string name="status_deferred_val">POSTPONE</string>
+    <string name="status_intro_failed_val">INT_FAIL</string>
+    <string name="status_no_action_val">NO_ACTN</string>
+    <string name="status_noted_filed_val">NOTDFIL</string>
+    <string name="status_received_val">RECEIVED</string>
+    <string name="status_referred_val">REFERRED</string>
+    <string name="status_rescinded_val">RESCIND</string>
+    <string name="status_withdrawn_val">WITHDRAW</string>
+    <string name="status_without_recs_val">WO_RECS</string>
+    
+    <string-array name="status_val_list"> 
+        <item>@string/status_no_status_val</item>
+        <item>@string/status_adopted_val</item>  
+        <item>@string/status_admended_val</item>  
+        <item>@string/status_confirmed_val</item>  
+        <item>@string/status_deferred_val</item>
+        <item>@string/status_intro_failed_val</item>
+        <item>@string/status_no_action_val</item>
+        <item>@string/status_noted_filed_val</item>
+        <item>@string/status_received_val</item>
+        <item>@string/status_referred_val</item>
+        <item>@string/status_rescinded_val</item>
+        <item>@string/status_withdrawn_val</item>
+        <item>@string/status_without_recs_val</item>
+    </string-array>
+    
+    <string name="committee_0">No Committee Filter</string>
+    <string name="committee_581">Aboriginal Affairs Committee (2010-2014)</string>
+    <string name="committee_242">Aboriginal Affairs Committee (2006-2010)</string>
+    <string name="committee_346">Advisory Committee on Long-Term Care Homes and Services (2010-2014)</string>
+    <string name="committee_81">Advisory Committee on Long-Term Care Homes and Services (2006-2010)</string>
+    <string name="committee_421">Affordable Housing Committee (2010-2014)</string>
+    <string name="committee_15">Affordable Housing Committee (2006-2010)</string>
+    <string name="committee_363">Audit Committee (2010-2014)</string>
+    <string name="committee_18">Audit Committee (2006-2010)</string>
+    <string name="committee_342">Bid Committee (2010-2014)</string>
+    <string name="committee_181">Bid Committee (2006-2010)</string>
+    <string name="committee_401">Board of Directors of the Toronto Atmospheric Fund (2010-2014)</string>
+    <string name="committee_321">Board of Health (2010-2014)</string>
+    <string name="committee_14">Board of Health (2006-2010)</string>
+    <string name="committee_782">Board of Health AIDS Prevention Community Investment Program Review Panel (2010-2014)</string>
+    <string name="committee_541">Board of Health Budget Sub-Committee (2010-2014)</string>
+    <string name="committee_781">Board of Health Drug Prevention Community Investment Program Review Panel (2010-2014)</string>
+	<string name="committee_371">Board of Management of the Toronto Zoo (2010-2014)</string>
+	<string name="committee_241">Board of Management of the Toronto Zoo (2006-2010)</string>
+	<string name="committee_362">Budget Committee (2010-2014)</string>
+	<string name="committee_16">Budget Committee (2006-2010)</string>
+	<string name="committee_462">Budget Sub-Committee for Etobicoke York, and Toronto and East York Consultation (2010-2014)</string>
+	<string name="committee_461">Budget Sub-Committee for Scarborough and North York Consultation (2010-2014)</string>
+	<string name="committee_661">CDR Core Service Review Subcommittee (2010-2014)</string>
+	<string name="committee_261">City Council (2010-2014)</string>
+	<string name="committee_2">City Council (2006-2010)</string>
+	<string name="committee_382">Civic Appointments Committee (2010-2014)</string>
+	<string name="committee_22">Civic Appointments Committee (2006-2010)</string>
+	<string name="committee_621">Civic Appointments Committee Panel 1 (2010-2014)</string>
+	<string name="committee_622">Civic Appointments Committee Panel 2 (2010-2014)</string>
+	<string name="committee_623">Civic Appointments Committee Panel 3 (2010-2014)</string>
+	<string name="committee_624">Civic Appointments Committee Panel 4 (2010-2014)</string>
+	<string name="committee_625">Civic Appointments Committee Panel 5 (2010-2014)</string>
+	<string name="committee_626">Civic Appointments Committee Panel 6 (2010-2014)</string>
+	<string name="committee_627">Civic Appointments Committee Panel 7 (2010-2014)</string>
+	<string name="committee_681">Civic Appointments Committee Panel 8 (2010-2014)</string>
+	<string name="committee_364">Community Development and Recreation Committee (2010-2014)</string>
+    <string name="committee_3">Community Development and Recreation Committee (2006-2010)</string>
+    <string name="committee_643">Community Partnership and Investment Program Appeals Committee (2010-2014)</string>
+    <string name="committee_521">Compliance Audit Committee (2010-2014)</string>
+    <string name="committee_441">Debenture Committee (2010-2014)</string>
+    <string name="committee_221">Debenture Committee (2006-2010)</string>
+    <string name="committee_601">Disability Issues Committee (2010-2014)</string>
+    <string name="committee_365">Economic Development Committee (2010-2014)</string>
+    <string name="committee_4">Economic Development Committee (2006-2010)</string>
+    <string name="committee_381">Employee and Labour Relations Committee (2010-2014)</string>
+    <string name="committee_17">Employee and Labour Relations Committee (2006-2010)</string>
+    <string name="committee_264">Etobicoke York Community Council (2010-2014)</string>
+    <string name="committee_12">Etobicoke York Community Council (2006-2010)</string>
+	<string name="committee_761">Etobicoke York Community Council Arena Board Nominating Panel (2010-2014)</string>
+	<string name="committee_262">Executive Committee (2010-2014)</string>
+	<string name="committee_1">Executive Committee (2006-2010)</string>
+	<string name="committee_6">General Government Committee (2006-2010)</string>
+	<string name="committee_366">Government Management Committee (2010-2014)</string>
+	<string name="committee_61">Government Management Committee (2006-2010)</string>
+	<string name="committee_821">Graffiti Panel (2010-2014)</string>
+	<string name="committee_801">Holiday Shopping Subcommittee (2010-2014)</string>
+	<string name="committee_367">Licensing and Standards Committee (2010-2014)</string>
+	<string name="committee_8">Licensing and Standards Committee (2006-2010)</string>
+	<string name="committee_265">North York Community Council (2010-2014)</string>
+	<string name="committee_13">North York Community Council (2006-2010)</string>
+	<string name="committee_762">North York Community Council Arena Board Nominating Panel (2010-2014)</string>
+    <string name="committee_368">Parks and Environment Committee (2010-2014)</string>
+    <string name="committee_7">Parks and Environment Committee (2006-2010)</string>
+    <string name="committee_369">Planning and Growth Management Committee (2010-2014)</string>
+    <string name="committee_9">Planning and Growth Management Committee (2006-2010)</string>
+    <string name="committee_343">Property Standards - Etobicoke York Panel (2010-2014)</string>
+    <string name="committee_82">Property Standards - Etobicoke York Panel (2006-2010)</string>
+    <string name="committee_341">Property Standards - North York Panel (2010-2014)</string>
+    <string name="committee_101">Property Standards - North York Panel (2006-2010)</string>
+    <string name="committee_344">Property Standards - Scarborough Panel (2010-2014)</string>
+    <string name="committee_102">Property Standards - Scarborough Panel (2006-2010)</string>
+    <string name="committee_345">Property Standards - Toronto and East York Panel (2010-2014)</string>
+    <string name="committee_103">Property Standards - Toronto and East York Panel (2006-2010)</string>
+    <string name="committee_741">Property Standards Committee (2010-2014)</string>
+    <string name="committee_370">Public Works and Infrastructure Committee (2010-2014)</string>
+    <string name="committee_5">Public Works and Infrastructure Committee (2006-2010)</string>
+    <string name="committee_201">SSO and Recycling Infrastructure Sub-Committee (2006-2010)</string>
+    <string name="committee_266">Scarborough Community Council (2010-2014)</string>
+    <string name="committee_11">Scarborough Community Council (2006-2010)</string>
+    <string name="committee_642">Seniors Strategy Subcommittee (2010-2014)</string>
+    <string name="committee_361">Sign Variance Committee (2010-2014)</string>
+    <string name="committee_281">Sign Variance Committee (2006-2010)</string>
+    <string name="committee_263">Striking Committee (2010-2014)</string>
+    <string name="committee_21">Striking Committee (2006-2010)</string>
+    <string name="committee_861">Subcommittee on Establishment of Local Appeal Body (2010-2014)</string>
+    <string name="committee_372">Toronto Preservation Board (2010-2014)</string>
+    <string name="committee_83">Toronto Preservation Board (2006-2010)</string>
+    <string name="committee_267">Toronto and East York Community Council (2010-2014)</string>
+    <string name="committee_10">Toronto and East York Community Council (2006-2010)</string>
+    <string name="committee_763">Toronto and East York Community Council Arena Board Nominating Panel 1 (2010-2014)</string>
+    <string name="committee_764">Toronto and East York Community Council Arena Board Nominating Panel 2 (2010-2014)</string>
+    <string name="committee_881">Toronto and East York Community Council Casino Subcommittee (2010-2014)</string>
+	
+    <string-array name="committee_filter_list"> 
+        <item>@string/committee_0</item> 
+        <item>@string/committee_581</item>  
+        <item>@string/committee_242</item>  
+        <item>@string/committee_346</item>  
+        <item>@string/committee_81</item>
+        <item>@string/committee_421</item>
+        <item>@string/committee_15</item>
+        <item>@string/committee_363</item>
+        <item>@string/committee_18</item>
+        <item>@string/committee_342</item>
+        <item>@string/committee_181</item>
+        <item>@string/committee_401</item>
+        <item>@string/committee_321</item>      
+        <item>@string/committee_14</item>  
+        <item>@string/committee_782</item>  
+        <item>@string/committee_541</item>  
+        <item>@string/committee_781</item>
+        <item>@string/committee_371</item>
+        <item>@string/committee_241</item>
+        <item>@string/committee_362</item>
+        <item>@string/committee_16</item>
+        <item>@string/committee_462</item>
+        <item>@string/committee_461</item>
+        <item>@string/committee_661</item>
+        <item>@string/committee_261</item>
+        <item>@string/committee_2</item>  
+        <item>@string/committee_382</item>  
+        <item>@string/committee_22</item>  
+        <item>@string/committee_621</item>
+        <item>@string/committee_622</item>
+        <item>@string/committee_623</item>
+        <item>@string/committee_624</item>
+        <item>@string/committee_625</item>
+        <item>@string/committee_626</item>
+        <item>@string/committee_627</item>
+        <item>@string/committee_681</item>
+        <item>@string/committee_364</item>
+        <item>@string/committee_3</item>  
+        <item>@string/committee_643</item>  
+        <item>@string/committee_521</item>  
+        <item>@string/committee_441</item>
+        <item>@string/committee_221</item>
+        <item>@string/committee_601</item>
+        <item>@string/committee_365</item>
+        <item>@string/committee_4</item>
+        <item>@string/committee_381</item>
+        <item>@string/committee_17</item>
+        <item>@string/committee_264</item>
+        <item>@string/committee_12</item>
+        <item>@string/committee_761</item>  
+        <item>@string/committee_262</item>  
+        <item>@string/committee_1</item>  
+        <item>@string/committee_6</item>
+        <item>@string/committee_366</item>
+        <item>@string/committee_61</item>
+        <item>@string/committee_821</item>
+        <item>@string/committee_801</item>
+        <item>@string/committee_367</item>
+        <item>@string/committee_8</item>
+        <item>@string/committee_265</item>
+        <item>@string/committee_13</item>
+        <item>@string/committee_762</item>  
+        <item>@string/committee_368</item>  
+        <item>@string/committee_7</item>  
+        <item>@string/committee_369</item>
+        <item>@string/committee_9</item>
+        <item>@string/committee_343</item>
+        <item>@string/committee_82</item>
+        <item>@string/committee_341</item>
+        <item>@string/committee_101</item>
+        <item>@string/committee_344</item>
+        <item>@string/committee_102</item>
+        <item>@string/committee_345</item>
+        <item>@string/committee_103</item>  
+        <item>@string/committee_741</item>  
+        <item>@string/committee_370</item>  
+        <item>@string/committee_5</item>
+        <item>@string/committee_201</item>
+        <item>@string/committee_266</item>
+        <item>@string/committee_11</item>
+        <item>@string/committee_642</item>
+        <item>@string/committee_361</item>
+        <item>@string/committee_281</item>
+        <item>@string/committee_263</item>
+        <item>@string/committee_21</item>
+        <item>@string/committee_861</item>  
+        <item>@string/committee_372</item>  
+        <item>@string/committee_83</item>  
+        <item>@string/committee_267</item>
+        <item>@string/committee_10</item>
+        <item>@string/committee_763</item>
+        <item>@string/committee_764</item>
+        <item>@string/committee_881</item>
+    </string-array>
+    
+	<string name="committee_0_val">0</string>
+	<string name="committee_581_val">581</string>
+    <string name="committee_242_val">242</string>
+    <string name="committee_346_val">346</string>
+    <string name="committee_81_val">81</string>
+    <string name="committee_421_val">421</string>
+    <string name="committee_15_val">15</string>
+    <string name="committee_363_val">363</string>
+    <string name="committee_18_val">18</string>
+    <string name="committee_342_val">342</string>
+    <string name="committee_181_val">181</string>
+    <string name="committee_401_val">401</string>
+    <string name="committee_321_val">321</string>
+    <string name="committee_14_val">14</string>
+    <string name="committee_782_val">782</string>
+    <string name="committee_541_val">541</string>
+    <string name="committee_781_val">781</string>
+	<string name="committee_371_val">371</string>
+	<string name="committee_241_val">241</string>
+	<string name="committee_362_val">362</string>
+	<string name="committee_16_val">16</string>
+	<string name="committee_462_val">462</string>
+	<string name="committee_461_val">461</string>
+	<string name="committee_661_val">661</string>
+	<string name="committee_261_val">261</string>
+	<string name="committee_2_val">2</string>
+	<string name="committee_382_val">382</string>
+	<string name="committee_22_val">22</string>
+	<string name="committee_621_val">621</string>
+	<string name="committee_622_val">622</string>
+	<string name="committee_623_val">623</string>
+	<string name="committee_624_val">624</string>
+	<string name="committee_625_val">625</string>
+	<string name="committee_626_val">626</string>
+	<string name="committee_627_val">627</string>
+	<string name="committee_681_val">681</string>
+	<string name="committee_364_val">364</string>
+    <string name="committee_3_val">3</string>
+    <string name="committee_643_val">643</string>
+    <string name="committee_521_val">521</string>
+    <string name="committee_441_val">441</string>
+    <string name="committee_221_val">221</string>
+    <string name="committee_601_val">601</string>
+    <string name="committee_365_val">365</string>
+    <string name="committee_4_val">4</string>
+    <string name="committee_381_val">381</string>
+    <string name="committee_17_val">17</string>
+    <string name="committee_264_val">264</string>
+    <string name="committee_12_val">12</string>
+	<string name="committee_761_val">761</string>
+	<string name="committee_262_val">262</string>
+	<string name="committee_1_val">1</string>
+	<string name="committee_6_val">6</string>
+	<string name="committee_366_val">366</string>
+	<string name="committee_61_val">61</string>
+	<string name="committee_821_val">821</string>
+	<string name="committee_801_val">801</string>
+	<string name="committee_367_val">367</string>
+	<string name="committee_8_val">8</string>
+	<string name="committee_265_val">265</string>
+	<string name="committee_13_val">13</string>
+	<string name="committee_762_val">762</string>
+    <string name="committee_368_val">368</string>
+    <string name="committee_7_val">7</string>
+    <string name="committee_369_val">369</string>
+    <string name="committee_9_val">9</string>
+    <string name="committee_343_val">343</string>
+    <string name="committee_82_val">82</string>
+    <string name="committee_341_val">341</string>
+    <string name="committee_101_val">101</string>
+    <string name="committee_344_val">344</string>
+    <string name="committee_102_val">102</string>
+    <string name="committee_345_val">345</string>
+    <string name="committee_103_val">103</string>
+    <string name="committee_741_val">741</string>
+    <string name="committee_370_val">370</string>
+    <string name="committee_5_val">5</string>
+    <string name="committee_201_val">201</string>
+    <string name="committee_266_val">266</string>
+    <string name="committee_11_val">11</string>
+    <string name="committee_642_val">642</string>
+    <string name="committee_361_val">361</string>
+    <string name="committee_281_val">281</string>
+    <string name="committee_263_val">263</string>
+    <string name="committee_21_val">21</string>
+    <string name="committee_861_val">861</string>
+    <string name="committee_372_val">372</string>
+    <string name="committee_83_val">83</string>
+    <string name="committee_267_val">267</string>
+    <string name="committee_10_val">10</string>
+    <string name="committee_763_val">763</string>
+    <string name="committee_764_val">764</string>
+    <string name="committee_881_val">881</string>
+    
+    <string-array name="committee_val_list"> 
+        <item>@string/committee_0_val</item> 
+        <item>@string/committee_581_val</item>  
+        <item>@string/committee_242_val</item>  
+        <item>@string/committee_346_val</item>  
+        <item>@string/committee_81_val</item>
+        <item>@string/committee_421_val</item>
+        <item>@string/committee_15_val</item>
+        <item>@string/committee_363_val</item>
+        <item>@string/committee_18_val</item>
+        <item>@string/committee_342_val</item>
+        <item>@string/committee_181_val</item>
+        <item>@string/committee_401_val</item>
+        <item>@string/committee_321_val</item>      
+        <item>@string/committee_14_val</item>  
+        <item>@string/committee_782_val</item>  
+        <item>@string/committee_541_val</item>  
+        <item>@string/committee_781_val</item>
+        <item>@string/committee_371_val</item>
+        <item>@string/committee_241_val</item>
+        <item>@string/committee_362_val</item>
+        <item>@string/committee_16_val</item>
+        <item>@string/committee_462_val</item>
+        <item>@string/committee_461_val</item>
+        <item>@string/committee_661_val</item>
+        <item>@string/committee_261_val</item>
+        <item>@string/committee_2_val</item>  
+        <item>@string/committee_382_val</item>  
+        <item>@string/committee_22_val</item>  
+        <item>@string/committee_621_val</item>
+        <item>@string/committee_622_val</item>
+        <item>@string/committee_623_val</item>
+        <item>@string/committee_624_val</item>
+        <item>@string/committee_625_val</item>
+        <item>@string/committee_626_val</item>
+        <item>@string/committee_627_val</item>
+        <item>@string/committee_681_val</item>
+        <item>@string/committee_364_val</item>
+        <item>@string/committee_3_val</item>  
+        <item>@string/committee_643_val</item>  
+        <item>@string/committee_521_val</item>  
+        <item>@string/committee_441_val</item>
+        <item>@string/committee_221_val</item>
+        <item>@string/committee_601_val</item>
+        <item>@string/committee_365_val</item>
+        <item>@string/committee_4_val</item>
+        <item>@string/committee_381_val</item>
+        <item>@string/committee_17_val</item>
+        <item>@string/committee_264_val</item>
+        <item>@string/committee_12_val</item>
+        <item>@string/committee_761_val</item>  
+        <item>@string/committee_262_val</item>  
+        <item>@string/committee_1_val</item>  
+        <item>@string/committee_6_val</item>
+        <item>@string/committee_366_val</item>
+        <item>@string/committee_61_val</item>
+        <item>@string/committee_821_val</item>
+        <item>@string/committee_801_val</item>
+        <item>@string/committee_367_val</item>
+        <item>@string/committee_8_val</item>
+        <item>@string/committee_265_val</item>
+        <item>@string/committee_13_val</item>
+        <item>@string/committee_762_val</item>  
+        <item>@string/committee_368_val</item>  
+        <item>@string/committee_7_val</item>  
+        <item>@string/committee_369_val</item>
+        <item>@string/committee_9_val</item>
+        <item>@string/committee_343_val</item>
+        <item>@string/committee_82_val</item>
+        <item>@string/committee_341_val</item>
+        <item>@string/committee_101_val</item>
+        <item>@string/committee_344_val</item>
+        <item>@string/committee_102_val</item>
+        <item>@string/committee_345_val</item>
+        <item>@string/committee_103_val</item>  
+        <item>@string/committee_741_val</item>  
+        <item>@string/committee_370_val</item>  
+        <item>@string/committee_5_val</item>
+        <item>@string/committee_201_val</item>
+        <item>@string/committee_266_val</item>
+        <item>@string/committee_11_val</item>
+        <item>@string/committee_642_val</item>
+        <item>@string/committee_361_val</item>
+        <item>@string/committee_281_val</item>
+        <item>@string/committee_263_val</item>
+        <item>@string/committee_21_val</item>
+        <item>@string/committee_861_val</item>  
+        <item>@string/committee_372_val</item>  
+        <item>@string/committee_83_val</item>  
+        <item>@string/committee_267_val</item>
+        <item>@string/committee_10_val</item>
+        <item>@string/committee_763_val</item>
+        <item>@string/committee_764_val</item>
+        <item>@string/committee_881_val</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222930" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:textColor="#E9E9E9" />
+
+    <TextView
+        android:id="@+id/meeting_date"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/title"
+        android:textColor="#E9E9E9" />
+
+    <TextView
+        android:id="@+id/committee"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/meeting_date"
+        android:textColor="#E9E9E9" />
+
+
+    <TextView
+        android:id="@+id/item_num"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/committee"
+        android:textColor="#E9E9E9" />
+
+</RelativeLayout>
